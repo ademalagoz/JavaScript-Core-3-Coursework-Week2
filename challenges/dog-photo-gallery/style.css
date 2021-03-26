@@ -1,0 +1,30 @@
+body{
+    background-color: seashell;
+}
+
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: 1rem;
+
+}
+
+img {
+    
+    width: 800px;
+    height: 600px;
+}
+
+#new {
+    padding: 2em;
+    margin-left: 700px;
+    margin-top: 20px;
+    font-size:medium;
+    color: darkorange;
+    background-color: chartreuse;
+    cursor: pointer;
+    
+
+}
