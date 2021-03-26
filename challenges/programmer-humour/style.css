@@ -1,0 +1,17 @@
+body{
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+img {
+    width: 50%;
+    height: 70vh;
+} 
+
+h2{
+    background-color: tomato;
+}
